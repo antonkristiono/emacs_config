@@ -1,0 +1,4 @@
+*.dat
+/auto-save-list
+/elpa
+recentf
